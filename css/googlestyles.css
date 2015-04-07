@@ -1,7 +1,7 @@
 /* Google Mock Styles Sheet */
 * {
 	margin: 0;
-
+	font-family: arial, sans-serif;
 }
 
 
@@ -10,6 +10,12 @@
 ul, li {
 	display: inline-block;
 	vertical-align: middle;
+	color: #555;
+}
+
+li, button {
+	margin: 0 5px 0 5px;
+	font-size: 0.8em;
 }
 
 #header {
@@ -49,10 +55,6 @@ ul, li {
 
 #main input:focus, #main button:active {
 	border-color: #009dff;
-}
-
-#main button {
-	margin: 0 5px 0 5px;
 }
 
 
