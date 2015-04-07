@@ -1,0 +1,5 @@
+/*Google Mock Styles Sheet*/
+* {
+	margin: 0;
+	border: 1px dashed red;
+}
