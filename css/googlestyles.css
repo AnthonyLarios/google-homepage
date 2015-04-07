@@ -3,3 +3,16 @@
 	margin: 0;
 	border: 1px dashed red;
 }
+
+ul, li {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#header {
+	text-align: right;
+}
+
+.round {
+	border-radius: 50%;
+}
