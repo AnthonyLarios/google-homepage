@@ -4,13 +4,20 @@
 	font-family: arial, sans-serif;
 }
 
+a {
+	text-decoration: none;
+	color: #555;
+}
+
+a:hover {
+	text-decoration: underline;
+}
 
 /* Selectors for header */
 
 ul, li {
 	display: inline-block;
 	vertical-align: middle;
-	color: #555;
 }
 
 li, button {
