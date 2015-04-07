@@ -54,3 +54,22 @@ ul, li {
 #main button {
 	margin: 0 5px 0 5px;
 }
+
+
+/* Selectors to footer */
+
+#footer {
+	bottom: 0;
+	height: 35px;
+	position: absolute;
+	width: 100%;
+	background-color: #f2f2f2;
+}
+
+#footer ul:first-child {
+	float: left;
+}
+
+#footer ul:last-child {
+	float: right;
+}
